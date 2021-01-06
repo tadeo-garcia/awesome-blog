@@ -3,7 +3,7 @@ import { Link, routes } from '@redwoodjs/router'
 const HomePage = () => {
   return (
     <>
-      <h1>HomePage</h1>
+      <h1>Welcome to the awesome blog.</h1>
       <p>
         Find me in <code>./web/src/pages/HomePage/HomePage.js</code>
       </p>
